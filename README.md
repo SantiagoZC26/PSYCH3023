@@ -1,7 +1,11 @@
 # PSYCH3023
-Original repository was merged with <i>Website-Structure</i> repository
+Original repository was merged with <b><i>Website-Structure</I></b> repository
 
 
-old README from merge with Website-Structure
 
-"Repository for website structure"
+
+
+
+<b>old README from merge with Website-Structure</b>
+
+<i>"Repository for website structure"</i>
