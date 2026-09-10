@@ -1,0 +1,99 @@
+library(shiny)
+
+site_css <- "
+:root {
+  --ink: #1c1f26;
+  --paper: #fbfaf7;
+  --muted: #6b7280;
+  --accent: #2f5d50;
+  --rule: #e2ded6;
+}
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+}
+.wrap { max-width: 62rem; margin: 0 auto; padding: 0 1.5rem; }
+.nav {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.nav a { color: var(--ink); text-decoration: none; margin-left: 1.5rem; }
+.nav a:hover, .nav a:focus { color: var(--accent); }
+.brand { font-size: 1.15rem; font-weight: 600; letter-spacing: -0.01em; }
+.hero { padding: 5rem 0 4rem; max-width: 34rem; }
+.hero h1 { font-size: 2.75rem; line-height: 1.1; margin: 0 0 1rem; letter-spacing: -0.02em; }
+.hero p { font-size: 1.1rem; color: var(--muted); margin: 0 0 2rem; }
+.cta {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  padding: 0.7rem 1.4rem;
+  border-radius: 2px;
+  text-decoration: none;
+}
+.cta:hover, .cta:focus { background: #24473e; color: #fff; }
+.panels { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2.5rem; padding: 3rem 0; border-top: 1px solid var(--rule); }
+.panels h2 { font-size: 1.05rem; margin: 0 0 0.5rem; }
+.panels p { margin: 0; color: var(--muted); }
+.foot { border-top: 1px solid var(--rule); padding: 2rem 0 3rem; color: var(--muted); font-size: 0.9rem; }
+@media (max-width: 700px) {
+  .panels { grid-template-columns: 1fr; gap: 1.75rem; }
+  .hero { padding: 3rem 0 2.5rem; }
+  .hero h1 { font-size: 2rem; }
+}
+"
+
+ui <- tagList(
+  tags$head(
+    tags$title("Site name"),
+    tags$meta(name = "viewport", content = "width=device-width, initial-scale=1"),
+    tags$style(HTML(site_css))
+  ),
+  tags$header(
+    div(
+      class = "wrap",
+      tags$nav(
+        class = "nav",
+        span(class = "brand", "Site name"),
+        div(
+          tags$a(href = "#about", "About"),
+          tags$a(href = "#work", "Work"),
+          tags$a(href = "#contact", "Contact")
+        )
+      )
+    )
+  ),
+  tags$main(
+    div(
+      class = "wrap",
+      tags$section(
+        class = "hero",
+        h1("A short line about what this site does."),
+        p("One or two sentences of supporting detail for a first-time visitor."),
+        tags$a(class = "cta", href = "#contact", "Get in touch")
+      ),
+      tags$section(
+        id = "about",
+        class = "panels",
+        div(h2("What we do"), p("Placeholder copy for the first point.")),
+        div(h2("How it works"), p("Placeholder copy for the second point.")),
+        div(h2("Who it's for"), p("Placeholder copy for the third point."))
+      )
+    )
+  ),
+  tags$footer(
+    div(class = "wrap foot", id = "contact", "hello@example.com  |  © 2026 Site name")
+  )
+)
+
+server <- function(input, output, session) {
+
+}
+
+shinyApp(ui, server)
