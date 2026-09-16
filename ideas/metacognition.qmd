@@ -1,0 +1,31 @@
+---
+title: "Metacognition"
+---
+
+::: {.promise}
+Thinking about your own thinking is the skill that does the heavy lifting here.
+:::
+
+## Metacognition in plain terms
+
+TODO: define metacognition for a Year 10 reader, with a short everyday example.
+
+## What cognitive-metacognitive engagement (CME) means in this study
+
+TODO: explain what CME means here, in terms of how a student plans, monitors and checks their AI use.
+
+## Why it is the strongest predictor
+
+TODO: say in one paragraph why CME mattered more than AI use in the results, without any causal wording. TODO: statistic from findings table.
+
+## What high CME looks like in practice
+
+TODO: short list of three or four concrete habits that show high metacognitive engagement.
+
+::: {.callout-tip title="Self-check questions"}
+TODO: three or four questions a student can ask themselves mid-task, such as "What do I already know about this?"
+:::
+
+---
+
+Next: [Using AI well](ai-literacy.qmd)

@@ -1,0 +1,49 @@
+---
+title: "What we found"
+---
+
+::: {.promise}
+Four results, one at a time.
+:::
+
+TODO: one sentence introducing the four results and reminding the reader they are links, not causes.
+
+::: {.panel-tabset}
+
+## How much students use AI
+
+TODO: statistic from findings table.
+
+TODO: the plain-English sentence for this result.
+
+![TODO: replace with the AI use figure exported from the analysis.](../images/placeholder.png){fig-alt="Placeholder for the AI use figure"}
+
+## How engaged they are (CME)
+
+TODO: statistic from findings table.
+
+TODO: the plain-English sentence for this result.
+
+![TODO: replace with the CME figure exported from the analysis.](../images/placeholder.png){fig-alt="Placeholder for the metacognitive engagement figure"}
+
+## What predicts critical thinking
+
+TODO: statistic from findings table.
+
+TODO: the plain-English sentence for this result.
+
+![TODO: replace with the regression figure exported from the analysis.](../images/placeholder.png){fig-alt="Placeholder for the regression model figure"}
+
+## The interaction
+
+TODO: statistic from findings table.
+
+TODO: the plain-English sentence for this result.
+
+![TODO: replace with the interaction figure exported from the analysis.](../images/placeholder.png){fig-alt="Placeholder for the interaction figure"}
+
+:::
+
+---
+
+Next: [What it means](meaning.qmd)
