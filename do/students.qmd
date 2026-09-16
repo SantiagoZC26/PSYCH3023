@@ -1,0 +1,43 @@
+---
+title: "For students"
+---
+
+::: {.promise}
+Four habits that keep the thinking yours.
+:::
+
+## The strategies
+
+TODO: three to five named strategies, each with a one-line why and a worked before/after example.
+
+### Strategy 1: TODO name
+
+TODO: one-line why, then a before/after example.
+
+### Strategy 2: TODO name
+
+TODO: one-line why, then a before/after example.
+
+### Strategy 3: TODO name
+
+TODO: one-line why, then a before/after example.
+
+### Strategy 4: TODO name
+
+TODO: one-line why, then a before/after example.
+
+## Try it yourself
+
+TODO: one sentence inviting the reader to pick an approach in each scenario before opening the feedback.
+
+::: {.callout-note collapse="true" title="Scenario 1: You've got an essay due tomorrow…"}
+TODO: describe the situation, list two or three approaches the reader could take, and give feedback on each.
+:::
+
+::: {.callout-note collapse="true" title="Scenario 2: TODO scenario title"}
+TODO: describe the situation, list two or three approaches the reader could take, and give feedback on each.
+:::
+
+---
+
+Next: [For schools](schools.qmd)

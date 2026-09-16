@@ -1,0 +1,27 @@
+---
+title: "Using AI well"
+---
+
+::: {.promise}
+AI literacy is not knowing the tools, it's knowing when and how to lean on them.
+:::
+
+## A working definition of AI literacy
+
+TODO: give a one-paragraph working definition of AI literacy, with a cited source.
+
+## Using AI a lot versus using AI well
+
+TODO: explain why how much you use AI and how well you use it are different things.
+
+## Common traps
+
+TODO: describe the common traps, such as accepting the first answer and outsourcing the framing of a problem.
+
+::: {.callout-warning title="Traps to watch for"}
+TODO: short list of the traps, one line each.
+:::
+
+---
+
+Next: [How we studied it](../study/methods.qmd)

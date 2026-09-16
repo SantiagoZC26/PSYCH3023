@@ -1,0 +1,29 @@
+---
+title: "For schools"
+---
+
+::: {.promise}
+Banning it and ignoring it are both losing strategies.
+:::
+
+## Teach AI literacy explicitly
+
+TODO: explain why AI literacy should be taught rather than assumed.
+
+**Try this:** TODO: one concrete classroom action.
+
+## Build metacognitive prompts into normal classwork
+
+TODO: explain how metacognitive prompts can sit inside ordinary tasks.
+
+**Try this:** TODO: one concrete classroom action.
+
+## Rethink critical thinking assessment
+
+TODO: explain what critical thinking assessment has to look like when AI is available.
+
+**Try this:** TODO: one concrete assessment change.
+
+---
+
+Next: [What's next](../whats-next.qmd)
