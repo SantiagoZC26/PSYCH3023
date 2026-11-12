@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Does AI help us think?"
+  description: "A student research project on AI use, metacognition and critical thinking."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "The ideas"
+        menu:
+          - ideas/thinking.qmd
+          - ideas/metacognition.qmd
+          - ideas/ai-literacy.qmd
+      - text: "The study"
+        menu:
+          - study/methods.qmd
+          - study/findings.qmd
+          - study/meaning.qmd
+      - text: "What to do"
+        menu:
+          - do/students.qmd
+          - do/schools.qmd
+      - href: whats-next.qmd
+        text: "What's next"
+      - href: about.qmd
+        text: About
+  page-footer:
+    center: "PRE 2026 research project"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    toc-depth: 2
+    code-tools: false

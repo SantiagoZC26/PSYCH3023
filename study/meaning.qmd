@@ -1,0 +1,35 @@
+---
+title: "What it means"
+---
+
+::: {.promise}
+The results, read as an argument.
+:::
+
+## Why metacognition matters more than AI use alone
+
+TODO: explain why engagement was linked to critical thinking more strongly than amount of use was. TODO: statistic from findings table.
+
+## Why "AI is bad for thinking" is too simple
+
+TODO: explain why the results do not support a blanket claim that AI harms thinking.
+
+## The uncomfortable finding
+
+TODO: describe the negative association with AI use that appeared among the more engaged students, in careful language. TODO: statistic from findings table.
+
+## Limits and alternative explanations
+
+TODO: list the main limits of the study and other explanations for the pattern.
+
+::: {.callout-caution title="Correlation is not causation"}
+TODO: one sentence repeating that these are associations and cannot show cause.
+:::
+
+### Three things this does not mean
+
+TODO: short list of three claims a reader might jump to that the results do not support.
+
+---
+
+Next: [For students](../do/students.qmd)

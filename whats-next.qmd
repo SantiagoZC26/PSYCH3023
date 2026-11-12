@@ -1,0 +1,23 @@
+---
+title: "What's next"
+---
+
+::: {.promise}
+What we'd need to know next.
+:::
+
+## What we can say
+
+TODO: three or four concluding claims stated plainly, each backed by the findings table.
+
+## Future research
+
+TODO: describe what longitudinal data, causal designs and measuring how (not how much) students use AI would add.
+
+## Back to the question
+
+TODO: a closing line returning to the home page question.
+
+---
+
+Next: [About](about.qmd)

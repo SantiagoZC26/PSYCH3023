@@ -1,0 +1,39 @@
+---
+title: "How we studied it"
+---
+
+::: {.promise}
+Where the numbers came from, in under a page.
+:::
+
+## Who was surveyed
+
+TODO: say who took part and how many, once the sample size and any ethics detail are confirmed with the team.
+
+## What we measured
+
+TODO: describe in one sentence each how AI use, CME and critical thinking were measured.
+
+| Measure | What it captures | How it was measured |
+|---|---|---|
+| AI use | TODO | TODO: instrument |
+| Metacognitive engagement (CME) | TODO | TODO: instrument |
+| Critical thinking | TODO | TODO: instrument |
+
+: The three measures {.striped}
+
+## How we analysed it
+
+TODO: say what a correlation does and what a regression does, in one sentence each.
+
+## What the study cannot tell us
+
+TODO: state what a correlational survey cannot show.
+
+::: {.callout-important title="A correlational study"}
+TODO: one sentence stating that the data is correlational, so nothing here shows that AI use causes a change in critical thinking.
+:::
+
+---
+
+Next: [What we found](findings.qmd)
