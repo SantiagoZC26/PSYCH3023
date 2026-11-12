@@ -1,0 +1,31 @@
+---
+title: "Does AI help us think, or think for us?"
+toc: false
+---
+
+::: {.hero}
+*TODO: one sentence saying this site reports a study of high school students, their AI use, and their critical thinking.*
+
+**Headline finding.** TODO: two-sentence summary of the headline finding, using the wording from the findings table.
+
+*TODO: one-line note that the study is correlational, so it shows links between things, not causes.*
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### [The ideas](ideas/thinking.qmd)
+TODO: one line inviting the reader into cognitive offloading, metacognition and AI literacy.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### [What we found](study/findings.qmd)
+TODO: one line pointing to the four results.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### [What to do](do/students.qmd)
+TODO: one line pointing to the strategies for students and schools.
+:::
+
+:::

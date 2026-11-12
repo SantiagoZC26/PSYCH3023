@@ -1,0 +1,41 @@
+---
+title: "How AI changes thinking"
+---
+
+::: {.promise}
+Handing a task to a machine changes what your brain does with it.
+:::
+
+## What cognitive offloading is
+
+TODO: explain cognitive offloading in plain terms, with an everyday example (calculators, GPS, autocomplete).
+
+::: {.callout-note title="Cognitive offloading"}
+TODO: one- or two-sentence definition of cognitive offloading.
+:::
+
+## Tool or replacement?
+
+TODO: explain the difference between using AI as a tool for your own thinking and using it as a replacement for that thinking.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### AI as a tool
+TODO: what it looks like when AI supports your thinking.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### AI as a replacement
+TODO: what it looks like when AI does the thinking for you.
+:::
+
+:::
+
+## When offloading helps, and when it costs you
+
+TODO: describe when offloading frees you up for harder thinking and when it means you skip the thinking altogether.
+
+---
+
+Next: [Metacognition](metacognition.qmd)

@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+
+## The team
+
+TODO: list team members and their roles.
+
+## References
+
+TODO: add the reference list in the required citation style.
+
+## AI use statement
+
+TODO: add the AI use statement required by the assignment.
+
+## Source code
+
+TODO: add a link to the GitHub repository.
